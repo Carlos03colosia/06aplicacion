@@ -7,10 +7,10 @@
 
     <!-- version Code is opcional and Andriod only-->
 
-    <name>Mensaje</name>
+    <name>Vibrar</name>
 
     <description>
-        Aplicacion que muestra un mensaje
+        Aplicacion que hace que el cel vibre
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
